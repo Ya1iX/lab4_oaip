@@ -1,0 +1,5 @@
+﻿  CTree.cpp
+  Lab4.cpp
+  Создание кода...
+D:\Important\Универ\ОАиП\Lab4\CTree.cpp(49): warning C4715: CTree::find: значение возвращается не при всех путях выполнения
+  Lab4.vcxproj -> D:\Important\Универ\ОАиП\Lab4\Debug\Lab4.exe
